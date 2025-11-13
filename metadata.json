@@ -1,0 +1,5 @@
+{
+  "name": "OutbreakOracle",
+  "description": "An AI-powered epidemiologist that analyzes multiple data sources to detect, assess, and provide recommendations for potential disease outbreaks.",
+  "requestFramePermissions": []
+}

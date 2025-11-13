@@ -110,7 +110,7 @@ Social Media + News + Search Trends + Hospital Data → AI Analysis → Early Al
 
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 git clone https://github.com/yourusername/outbreak-oracle.git
